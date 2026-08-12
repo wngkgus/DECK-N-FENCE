@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://deck-n-fence.wngkgus.workers.dev/sitemap.xml
